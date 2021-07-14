@@ -8,6 +8,6 @@ Pehtheme CSS is a modified version of the [Basscss framework](https://github.com
 - `a { text-decoration: none; color: var(--main-color) }`
 
 **Remove class**
-- `text-decoration: none;`
+- `.text-decoration-none { text-decoration: none }`
 
 **Resetting color**
